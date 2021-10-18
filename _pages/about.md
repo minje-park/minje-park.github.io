@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the personal website of Minje Park!
+Welcome to the personal website of Minje Park! This website is still being constructed.
