@@ -73,11 +73,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : 
 
 
 # Site Author
@@ -99,8 +99,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"jayrobwilliams"
-  gitlab           : #"jayrobwilliams"
+  github           : #""
+  gitlab           : #""
   google_plus      :
   keybase          :
   instagram        :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"jayrobw"
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
