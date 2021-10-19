@@ -10,7 +10,7 @@ locale                   : "en-US"
 theme                    : jekyll-text-theme
 text_skin                : "ocean"
 title                    : "Minje Park"
-title_separator          : ""
+title_separator          : "-"
 name                     : &name "Minje Park"
 description              : &description "Ph.D. Candidate in Operations and Technology Management"
 url                      : https://minje-park.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
