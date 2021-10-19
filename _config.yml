@@ -233,6 +233,7 @@ defaults:
       type: research
     values:
       layout: single
+      family: serif
       author_profile: true
       share: true
       comment: true
