@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## Minje Park `(박민제)`
+## Minje Park (`박민제`)
 ### Questrom School of Business, Boston University
+
 
 I am a Ph.D student in Operations and Technology Management at Questrom School of Business, Boston University, where I am advised by [Professor Anita Tucker](https://www.bu.edu/questrom/profile/anita-tucker/).
 
