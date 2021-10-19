@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Research Interests
-Supply Chain Disruptions, Pharmaceutical Supply Chains, Empirical Healthcare Operations, Behavioral Operations, Causal Inference, Econometrics 
+Supply Chain Disruptions, Pharmaceutical Supply Chains, Empirical Healthcare Operations, Behavioral Operations, Causal Inference
 
 
 ## Working Papers
