@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## Minje Park (박민제)
-### Ph.D. candidate, Questrom School of Business, Boston University
+### Ph.D. Candidate, Questrom School of Business, Boston University
 
 
-I am a Ph.D canidate in Operations and Technology Management at Questrom School of Business, where I am advised by [Professor Anita Tucker](https://www.bu.edu/questrom/profile/anita-tucker/).
+I am a Ph.D Canidate in Operations and Technology Management at Questrom School of Business, where I am advised by [Professor Anita Tucker](https://www.bu.edu/questrom/profile/anita-tucker/).
 
 My primary research interests are in the supply chain disruptions and their impact on buyers' behavior and service quality. Specifically, I focus on pharmaceutical supply chains. 
