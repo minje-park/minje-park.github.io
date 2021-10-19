@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-theme                    : jekyll-text-theme
+theme                    : jekyll-theme-cayman
 text_skin                : "ocean"
 title                    : "Minje Park"
 title_separator          : "-"
