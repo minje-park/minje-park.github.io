@@ -65,14 +65,6 @@ $muted-text-color: #40514e !default;
 $footer-background-color: #30e3ca !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
-.page__footer {
-  color: #fff !important; // override
-}
-
-.page__footer-follow .social-icons .svg-inline--fa {
-  color: inherit;
-}
-
 $primary-color              : #11999e;
 $success-color              : #62c462;
 $warning-color              : #f89406;
