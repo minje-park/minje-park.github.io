@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Minje Park (박민제)
+## Minje Park
 ### Ph.D. Candidate, Questrom School of Business, Boston University
 
 
