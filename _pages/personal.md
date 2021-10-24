@@ -1,5 +1,5 @@
 ---
-title: "Personal"
+title: "My Family"
 permalink: /personal/
 author_profile: true
 ---
