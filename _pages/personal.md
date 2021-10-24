@@ -12,8 +12,8 @@ Here are some pictures of us with our sons, Eden (Oct. 2019) and Roy (Oct. 2021)
 </p>
 
 <p align="center">
-<img src="/images/personal/Eden_bike.jpg" alt="Eden bike" width="125"/>
-<img src="/images/personal/EdenRoy.jpg" alt="Eden Roy" width="125"/> 
-<img src="/images/personal/EdenRoy2.jpg" alt="Eden Roy2" width="125"/>   
-<img src="/images/personal/Roy.jpg" alt="Roy" width="125"/>
+<img src="/images/personal/Eden_bike.jpg" alt="Eden bike" width="150"/>
+<img src="/images/personal/EdenRoy.jpg" alt="Eden Roy" width="150"/> 
+<img src="/images/personal/EdenRoy2.jpg" alt="Eden Roy2" width="150"/>   
+<img src="/images/personal/Roy.jpg" alt="Roy" width="150"/>
 </p>
