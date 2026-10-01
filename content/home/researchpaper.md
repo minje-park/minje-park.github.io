@@ -50,7 +50,7 @@ title = "Research"
 +++
 
 ## **Working Papers**
-1. [First, Do No Harm: Do Staffing Shortages Drive Abuse and Malfeasance in US Nursing Homes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028515) with Jong Myeong Lim, and Ken Moon. Major revision at _Manufacturing & Service Operations Management_.
+1. [Strategic Substitution under Staffing Shortages: Use of Chemical Restraints in U.S. Nursing Homes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028515). with Jong Myeong Lim, and Ken Moon. Major revision at _Manufacturing & Service Operations Management_.
    - Selected to present at MSOM Healthcare SIG 2026
    - Media: [MarketWatch](https://www.marketwatch.com/story/nursing-homes-may-start-sedating-your-elderly-parents-and-eventually-you-because-they-dont-have-enough-workers-e4c47a89?mod=brett-arends)
    
@@ -58,7 +58,7 @@ title = "Research"
    - Selected to present at Empirical Workshop in Operations Management 2023 (Wharton School)
    - Selected to present at MSOM Supply Chain Management SIG 2024
      
-3. The Impact of Senior Living Facilities on Medicare Spending. with Ann Bartel, Carri Chan, Patrick Wu, and Fanyin Zheng.  Major revision at _Management Science_. 
+3. [The Impact of Senior Living Facilities on Medicare Spending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7498839). with Ann Bartel, Carri Chan, Patrick Wu, and Fanyin Zheng.  Major revision at _Management Science_. 
 
 ***
 
