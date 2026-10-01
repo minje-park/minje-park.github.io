@@ -52,7 +52,7 @@ title = "Research"
 ## **Working Papers**
 1. [Strategic Substitution under Staffing Shortages: Use of Chemical Restraints in U.S. Nursing Homes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028515). with Jong Myeong Lim, and Ken Moon. Major revision at _Manufacturing & Service Operations Management_.
    - Selected to present at MSOM Healthcare SIG 2026
-   - Media: [MarketWatch](https://www.marketwatch.com/story/nursing-homes-may-start-sedating-your-elderly-parents-and-eventually-you-because-they-dont-have-enough-workers-e4c47a89?mod=brett-arends)
+   - Media: [MarketWatch](https://www.marketwatch.com/story/nursing-homes-may-start-sedating-your-elderly-parents-and-eventually-you-because-they-dont-have-enough-workers-e4c47a89?mod=brett-arends),[Wharton Pension Research Council](https://pensionresearchcouncil.wharton.upenn.edu/blog/the-hidden-cost-of-staffing-shortages-in-nursing-homes-too-few-nurses-more-drugs/), [EL PA´IS](https://elpais.com/us/migracion/2025-07-29/la-politica-migratoria-de-trump-sacude-al-sector-de-atencion-a-adultos-mayores-perder-a-estos-cuidadores-es-un-golpe-profundo.html)
    
 2. Time to Recover Market Share: A New Metric of Supply Chain Resilience. with Anita Carson and Rena Conti.
    - Selected to present at Empirical Workshop in Operations Management 2023 (Wharton School)
